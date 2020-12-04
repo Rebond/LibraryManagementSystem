@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1591413836 source:c:\users\29655\desktop\图书管理系统\main.c
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+
+1603090509 source:c:\users\dell\desktop\c语言课程设计\图书管理系统\图书管理系统\main.c
+	<stdlib.h>
+	<stdio.h>
+	<malloc.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<time.h>
+	<stdbool.h>
+
